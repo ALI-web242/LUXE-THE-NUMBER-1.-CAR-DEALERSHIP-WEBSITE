@@ -1,0 +1,9 @@
+# Local / editor
+.claude/
+.cursor/
+*.local.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
